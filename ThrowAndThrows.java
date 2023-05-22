@@ -21,7 +21,6 @@ public class ThrowAndThrows {
 	 b=Integer.parseInt(sc.nextLine());
 	 System.out.println("Result = "+(a/b));
  }
- 
  public static void main(String[] args) {
      ThrowAndThrows obj = new ThrowAndThrows();
      try
