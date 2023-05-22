@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class ThrowAndThrows {
  void ageValid(int age) throws ArithmeticException
  {
