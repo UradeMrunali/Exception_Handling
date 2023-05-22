@@ -4,7 +4,7 @@ public class ThrowAndThrows {
  {
 	 if(age<18)
 	 {
-		 throw new ArithmeticException("Age not Valid Exception");
+	 throw new ArithmeticException("Age not Valid Exception");
 	 }
 	 else
 	 {
